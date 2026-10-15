@@ -49,21 +49,21 @@ export default function Home() {
     //   link: "https://maps.app.goo.gl/gg24u1CNiqb4Y6Ng6",
     // },
 
-    {
-      title_ceremony: "Cocktail Party",
-      image: "/assets/cocktail.webp",
-      venue_address: <>Thursday, December 10th 2026 <br /> Hotel Regent Park <br/> Mahavir Marg Jalandar <br /> 8:00 pm Onwards</>,
-      link: "https://maps.app.goo.gl/fjxuRGFQRRJTL6mU7",
-    },
-
-
     // {
-    //   title_ceremony: "Wedding & Sehra Bandi Ceremony",
-    //   image: "/assets/anand_amul.png",
-    //   venue_address: <>
-    //   Shera Bandi on Friday December 11th 2026 timing 7:00 pm at our Residence 16A & 17A, Maharaja Ranjit Singh Avenue <br/> Near Guru Gobind Singh Avenue, Jalandhar <br/> Departure of the Baraat from the Residence at 8:00 PM. <br/>  At our Residence Towards Hotel Regent Park,<br/>  Mahavir Marg, Jalandhar<br /></>,
+    //   title_ceremony: "Cocktail Party",
+    //   image: "/assets/cocktail.webp",
+    //   venue_address: <>Thursday, December 10th 2026 <br /> Hotel Regent Park <br/> Mahavir Marg Jalandar <br /> 8:00 pm Onwards</>,
     //   link: "https://maps.app.goo.gl/fjxuRGFQRRJTL6mU7",
     // },
+
+
+    {
+      title_ceremony: "Wedding & Sehra Bandi Ceremony",
+      image: "/assets/anand_amul.png",
+      venue_address: <>
+      Shera Bandi on Friday December 11th 2026 timing 7:00 pm at our Residence 16A & 17A, Maharaja Ranjit Singh Avenue <br/> Near Guru Gobind Singh Avenue, Jalandhar <br/> Departure of the Baraat from the Residence at 8:00 PM. <br/>  At our Residence Towards Hotel Regent Park,<br/>  Mahavir Marg, Jalandhar<br /></>,
+      link: "https://maps.app.goo.gl/fjxuRGFQRRJTL6mU7",
+    },
 
 
   ];
